@@ -1,9 +1,13 @@
 this is a feature2 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 thoda aur kaam
 
 thoda aur kaam ache se, aur ache se
+=======
+thoda aut kaam
+>>>>>>> parent of b44bea0 (added new changes to fae2)
 =======
 thoda aut kaam
 >>>>>>> parent of b44bea0 (added new changes to fae2)
